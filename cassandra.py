@@ -26,7 +26,7 @@ print()
 if tech_final > outdoor_final and tech_final > music_final:
   print("You might be suitable for Infocomm club!")
 elif outdoor_final > music_final:
-  print("You might be stuiable for ODAC!")
+  print("You might be stuiable for Choir!")
 else:
   print("You might be suitable for Band!")
 
