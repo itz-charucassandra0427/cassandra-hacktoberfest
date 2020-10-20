@@ -1,4 +1,4 @@
-print("Title of program: CCA Matching Personality test")
+print("Title of program: CCA Matching Personality tests")
 print()
 print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a CCA for you!")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
